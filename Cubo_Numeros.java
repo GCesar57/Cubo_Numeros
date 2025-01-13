@@ -23,6 +23,7 @@ public class Cubo_Numeros {
 				System.out.println("El número no es natural");
 			}//
 		}//
+		entrada.close();
 	}
 	//250
 
